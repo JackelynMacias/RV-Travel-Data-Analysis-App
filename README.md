@@ -4,7 +4,8 @@ You can use the [editor on GitHub](https://github.com/JackelynMacias/RV-Travel-D
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Project Poster
+(https://uta.engineering/innovationday/posters/2022/98.pdf)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

@@ -13,5 +13,7 @@ You can view the [Project Poster here](https://uta.engineering/innovationday/pos
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/sfy39dSmKuk' frameborder='0' allowfullscreen></iframe></div>
 
 
+
+
 ### Thanks to Sponsor (Sponsor Accreditation)
 We would like to convey our appreciation to Social Knowledge LLC for sponsoring our Senior Design project (CSE 4316-007 and CSE 4317-007), an undergraduate-program capstone project involving the analysis and design of an industry-type project. Social Knowledge has contributed to the development of this project by providing raw data and project guidance.

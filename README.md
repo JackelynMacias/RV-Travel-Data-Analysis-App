@@ -1,3 +1,5 @@
+![image info](RV-Travel-Data-Analysis-App/images/RVagoWebapp.png)
+
 ## Team RVago
 
 ### Who are we?

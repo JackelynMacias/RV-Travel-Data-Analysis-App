@@ -1,6 +1,3 @@
----
-youtubeId: sfy39dSmKuk
----
 ## RV Travel Data Analysis App
 
 ### Who are we?
@@ -13,7 +10,7 @@ Recreational Vehicles are large motorhome vehicles that people use for road trip
 You can view the Project Poster [here](https://uta.engineering/innovationday/posters/2022/98.pdf)
 
 ### Project Video
-{% include youtubePlayer.html id=page.sfy39dSmKuk %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sfy39dSmKuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Thanks to Sponsor (Sponsor Accreditation)
 We would like to convey our appreciation to Social Knowledge LLC for sponsoring our Senior Design project (CSE 4316-007 and CSE 4317-007), an undergraduate-program capstone project involving the analysis and design of an industry-type project. Social Knowledge has contributed to the development of this project by providing raw data and project guidance.

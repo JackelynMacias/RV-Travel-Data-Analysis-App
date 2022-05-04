@@ -1,5 +1,3 @@
-![image info](./images/RVagoWebapp.png)
-
 ## Team RVago
 
 ### Who are we?
@@ -9,6 +7,8 @@ RVago is developed by the B.S. in Computer Science students Haroon Isse, Minh Tr
 
 ### Abstract
 Recreational Vehicles are large motorhome vehicles that people use for road trips across the country. Generally, RVs are much larger and heavier than regular cars and cannot use typical GPS services such as Google Maps or Apple Maps because these services do not account for the dimensions and weight of a vehicle. Social Knowledge has created an RV trip planning service called RV Trip Wizard that allows users to get a safe and suitable route for their RV. This project will analyze historical data from RV Trip Wizard to identify RV traffic trends that can help new and existing users plan their trips better and provide safe conditions for users. Our team, RVago, will create a travel data analysis web app that will show map visualizations that reflect the travel habits of the RV community. These map visualizations include a heat map of intersection segments of most traveled roads RVers take, a heat map of the elevations of those traveled segments, and an animated heat map that shows through time where the RVers tend to travel.
+
+![Image of RVago's Web App featuring the three cards that show each of our map displays: Intersection Map, Animated Intersection Map and the Arc Layer](./images/RVagoWebapp.png)
 
 ### Project Poster
 You can view the [Project Poster here](https://uta.engineering/innovationday/posters/2022/98.pdf)

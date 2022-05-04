@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-leap-day
 title: "RV Travel Data Analysis App"
 description: &description "Website that hosts Team RVago's project abstract, poster and video"
 github:

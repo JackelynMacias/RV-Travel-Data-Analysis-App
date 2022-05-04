@@ -1,5 +1,5 @@
 ---
-youtubeId: https://youtu.be/sfy39dSmKuk
+youtubeId: sfy39dSmKuk&t=2s
 ---
 ## RV Travel Data Analysis App
 

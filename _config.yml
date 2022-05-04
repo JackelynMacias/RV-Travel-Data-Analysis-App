@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: "RV Travel Data Analysis App"
-description: &description "Website that hosts Team RVago's project abstract, poster and video"
+description: &description "Website that hosts Team RVago's Senior Design project abstract, poster and video"
 github:
   is_project_page: false
 teaser: "RVagoWebapp.png"

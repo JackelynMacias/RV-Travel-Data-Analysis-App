@@ -1,3 +1,6 @@
+---
+youtubeId: putYourIDHere
+---
 
 ## RV Travel Data Analysis App
 
@@ -13,6 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 You can view the Project Poster [here](https://uta.engineering/innovationday/posters/2022/98.pdf)
 
 ### Project Video
+{% include youtubePlayer.html id=page.youtubeId %}
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

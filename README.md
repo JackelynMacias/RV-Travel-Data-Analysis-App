@@ -1,5 +1,5 @@
 ---
-youtubeId: sfy39dSmKuk&t=2s
+youtubeId: sfy39dSmKuk
 ---
 ## RV Travel Data Analysis App
 
@@ -16,6 +16,7 @@ You can view the Project Poster [here](https://uta.engineering/innovationday/pos
 
 ### Project Video
 {% include youtubePlayer.html id=page.youtubeId %}
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown

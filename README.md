@@ -11,7 +11,7 @@ Recreational Vehicles are large motorhome vehicles that people use for road trip
 ![Image of RVago's Web App featuring the three cards that show each of our map displays: Intersection Map, Animated Intersection Map and the Arc Layer](./images/RVagoWebapp.png)
 
 ### Project Poster
-You can view the [Project Poster here](https://uta.engineering/innovationday/posters/2022/98.pdf)
+You can view the [Project Poster here](https://jackelynmacias.github.io/RV-Travel-Data-Analysis-App/files/Innovation Day Poster.pdf)
 
 ### Project Video
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/sfy39dSmKuk' frameborder='0' allowfullscreen></iframe></div>
